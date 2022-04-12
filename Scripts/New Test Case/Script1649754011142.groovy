@@ -23,3 +23,5 @@ WebUI.closeBrowser()
 
 WebUI.disableSmartWait()
 
+WebUI.openBrowser('')
+
